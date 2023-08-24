@@ -1,1 +1,1 @@
-Tic-tac-Toe game made using React
+Tic-Tac-Toe game made using React JS
